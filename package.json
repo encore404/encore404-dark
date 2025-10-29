@@ -1,8 +1,10 @@
 {
   "name": "encore404-dark",
+  "publisher": "encore404",
   "displayName": "encore404-dark",
   "description": "Personal dark theme, based on monochrome-dark and Catppuccin Macchiato.",
   "version": "1.0.0",
+  "repository": "https://github.com/encore404/encore404-dark",
   "engines": {
     "vscode": "^1.105.0"
   },
