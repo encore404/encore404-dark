@@ -13,4 +13,4 @@
 
 ## Installation
 
-### Install from `https://marketplace.visualstudio.com/items?itemName=encore404.encore404-dark`
+1. Install from `[text]([https://](marketplace.visualstudio.com/items?itemName=encore404.encore404-dark))
