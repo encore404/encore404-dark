@@ -13,14 +13,4 @@
 
 ## Installation
 
-1. Clone this repository:
-   
-    ```bash
-    git clone https://github.com/encore404/encore404-dark.git
-    ```
-2. Open Visual Studio Code, press ```Ctrl/Cmd + Shift + P```, and choose:
-
-    ```bash
-    Preferences: Color Theme -> Install from VSIX...
-    ```
----
+### Install from `https://marketplace.visualstudio.com/items?itemName=encore404.encore404-dark`
