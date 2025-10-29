@@ -13,4 +13,4 @@
 
 ## Installation
 
-1. Install from [Visual Studio Marketplace]([https://marketplace.visualstudio.com/items?itemName=encore404.encore404-dark])
+1. Install from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=encore404.encore404-dark)
