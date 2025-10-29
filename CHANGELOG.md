@@ -11,7 +11,7 @@ All notable changes to the "encore-dark" extension will be documented in this fi
    - Syntax colors from *Catppuccin Macchiato*
  - Includes full semantic highlighting support
   
-## [1.2.0]
+## [1.2.0] - 2025-10-29
 
 ### Fixed
 - Name of theme file didn't match package.json
