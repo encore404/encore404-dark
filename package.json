@@ -1,0 +1,21 @@
+{
+  "name": "encore404-dark",
+  "displayName": "encore404-dark",
+  "description": "Personal dark theme, based on monochrome-dark and Catppuccin Macchiato.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Encore404 dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/encore404-dark.json"
+      }
+    ]
+  }
+}
