@@ -5,7 +5,7 @@
 ---
 
 ##
- - True black (*`#000000`*) UI elements
+ - True black UI elements
  - Syntax colors from Catppuccin Macchiato 
  - Full semantic highlighting
   
