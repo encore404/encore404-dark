@@ -10,3 +10,8 @@ All notable changes to the "encore-dark" extension will be documented in this fi
    - UI from *Monochrome Dark Amplified*
    - Syntax colors from *Catppuccin Macchiato*
  - Includes full semantic highlighting support
+
+## [1.1.0] - 2025-11-05
+
+### Added
+- Terminal color support
