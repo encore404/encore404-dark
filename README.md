@@ -2,14 +2,10 @@
  
 **Encore404 Dark** is a clean theme that merges the monochrome aspects of *Monochrome Dark Amplified* with the syntax highlights of *Catppuccin Macchiato*.
 
----
-
 ##
  - True black UI elements
  - Syntax colors from Catppuccin Macchiato 
  - Full semantic highlighting
-  
----
 
 ## Installation
 
