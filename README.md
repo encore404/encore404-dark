@@ -9,6 +9,6 @@
 
 ## Installation
 
-1. Download the [latest release](https://github.com/encore404/encore404-dark/releases/latest)
+1. Download the [latest release](https://github.com/lycoris-rs/encore404-dark/releases/latest)
 
 2. In Visual Studio Code, press `CTRL/CMD + SHIFT + P` and choose `Extension: Install from VSIX...`
